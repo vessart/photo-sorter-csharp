@@ -1,0 +1,17 @@
+c:\users\vessart\documents\visual studio 2015\Projects\PilotSorter\PilotSorter\bin\Debug\PilotSorter.exe.config
+c:\users\vessart\documents\visual studio 2015\Projects\PilotSorter\PilotSorter\obj\Debug\PilotSorter.csprojResolveAssemblyReference.cache
+c:\users\vessart\documents\visual studio 2015\Projects\PilotSorter\PilotSorter\bin\Debug\PilotSorter.exe
+c:\users\vessart\documents\visual studio 2015\Projects\PilotSorter\PilotSorter\bin\Debug\PilotSorter.pdb
+c:\users\vessart\documents\visual studio 2015\Projects\PilotSorter\PilotSorter\obj\Debug\PilotSorter.exe
+c:\users\vessart\documents\visual studio 2015\Projects\PilotSorter\PilotSorter\obj\Debug\PilotSorter.pdb
+C:\Users\vessart\Documents\Visual Studio 2015\Projects\PilotSorter\PilotSorter\bin\Debug\System.Data.SQLite.dll
+C:\Users\vessart\Documents\Visual Studio 2015\Projects\PilotSorter\PilotSorter\bin\Debug\System.Data.SQLite.xml
+D:\Dropbox\Projects\PilotSorter\PilotSorter\bin\Debug\PilotSorter.exe.config
+D:\Dropbox\Projects\PilotSorter\PilotSorter\bin\Debug\PilotSorter.exe
+D:\Dropbox\Projects\PilotSorter\PilotSorter\bin\Debug\PilotSorter.pdb
+D:\Dropbox\Projects\PilotSorter\PilotSorter\bin\Debug\System.Data.SQLite.dll
+D:\Dropbox\Projects\PilotSorter\PilotSorter\bin\Debug\System.Data.SQLite.xml
+D:\Dropbox\Projects\PilotSorter\PilotSorter\obj\Debug\PilotSorter.exe
+D:\Dropbox\Projects\PilotSorter\PilotSorter\obj\Debug\PilotSorter.pdb
+D:\Dropbox\Projects\PilotSorter\PilotSorter\obj\Debug\PilotSorter.csprojResolveAssemblyReference.cache
+D:\Dropbox\Projects\PilotSorter\PilotSorter\bin\Debug\PhotoSorter.exe.config

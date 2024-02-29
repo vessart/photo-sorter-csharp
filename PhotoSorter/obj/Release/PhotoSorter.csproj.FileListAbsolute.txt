@@ -1,0 +1,15 @@
+D:\Dropbox\Projects\PhotoSorter\PhotoSorter\bin\Release\PhotoSorter.exe.config
+D:\Dropbox\Projects\PhotoSorter\PhotoSorter\bin\Release\PhotoSorter.exe
+D:\Dropbox\Projects\PhotoSorter\PhotoSorter\bin\Release\PhotoSorter.pdb
+D:\Dropbox\Projects\PhotoSorter\PhotoSorter\bin\Release\System.Data.SQLite.dll
+D:\Dropbox\Projects\PhotoSorter\PhotoSorter\bin\Release\System.Data.SQLite.xml
+D:\Dropbox\Projects\PhotoSorter\PhotoSorter\obj\Release\PhotoSorter.exe
+D:\Dropbox\Projects\PhotoSorter\PhotoSorter\obj\Release\PhotoSorter.pdb
+D:\Dropbox\Projects\PhotoSorter\PhotoSorter\obj\Release\PhotoSorter.csprojResolveAssemblyReference.cache
+C:\Users\vessa\Dropbox\Code\PhotoSorter\PhotoSorter\bin\Release\PhotoSorter.exe.config
+C:\Users\vessa\Dropbox\Code\PhotoSorter\PhotoSorter\obj\Release\PhotoSorter.exe
+C:\Users\vessa\Dropbox\Code\PhotoSorter\PhotoSorter\obj\Release\PhotoSorter.pdb
+C:\Users\vessa\Dropbox\Code\PhotoSorter\PhotoSorter\bin\Release\PhotoSorter.exe
+C:\Users\vessa\Dropbox\Code\PhotoSorter\PhotoSorter\bin\Release\PhotoSorter.pdb
+C:\Users\vessa\Dropbox\Code\PhotoSorter\PhotoSorter\bin\Release\System.Data.SQLite.dll
+C:\Users\vessa\Dropbox\Code\PhotoSorter\PhotoSorter\bin\Release\System.Data.SQLite.xml
